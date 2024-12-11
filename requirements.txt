@@ -1,0 +1,6 @@
+Flask==2.3.2
+inference-sdk==1.2.0  # Replace with the actual version you are using
+python-dotenv==1.0.0
+opencv-python-headless==4.8.0.74
+supervision==0.4.0  # Replace with the version you use for drawing annotations
+Pillow==9.4.0
