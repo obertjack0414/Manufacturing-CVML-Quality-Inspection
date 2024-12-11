@@ -34,8 +34,8 @@ This repository contains the implementation of a Computer Vision (CV) and Machin
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/just-in-time-quality-check.git
-   cd just-in-time-quality-check
+   git clone https://github.com/obertjack0414/Manufacturing-CVML-Quality-Inspection.git
+   cd Manufacturing-CVML-Quality-Inspection
    ```
 
 2. **Install dependencies:**
