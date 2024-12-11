@@ -15,8 +15,8 @@ os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 os.makedirs(ANNOTATED_FOLDER, exist_ok=True)
 
 API_URL = "https://detect.roboflow.com"
-API_KEY = "MUvMl6qMSsSJFBExNerI"
-MODEL_ID = "just-in-time-inspection/1"
+API_KEY = "Your_API_Key"
+MODEL_ID = "Your_Model_ID"
 
 CLIENT = InferenceHTTPClient(api_url=API_URL, api_key=API_KEY)
 
